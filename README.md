@@ -6,9 +6,9 @@
 <br>
 <p>sobre_mim = {<br>
   <br>
-            '<b>tecnologias'</b>: ['Python', 'Java', 'SQL', 'Power BI', 'Estatistica', 'Machine Learning'],<br>
-            '<b>estudando</b>': ['Aplicacoes de AI', 'Docker', 'Airflow', 'Data Science'],<br>
-            '<b>frase_legal</b>': ['Eu acredito que com a tecnologia nós podemos mudar o mundo'],<br>
+            '<b>tecnologias'</b>: ['Python', 'Javascript', 'SQL', 'Power BI'],<br>
+            '<b>estudando</b>': ['Data Science'],<br>
+            '<b>frase_de_efeito</b>': ['Torne-se aquilo que você é'],<br>
             '<b>linkedin</b>':  'https://www.linkedin.com/in/filipoow/',<br>
             '<b>email'</b>: 'emaildofilipe.m@gmail.com'<br>
   <br>
@@ -22,7 +22,7 @@ Linguagens em uso no momento:
   <img align="center" alt="filipoow-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 </div>
-
+<br>
 :mailbox_with_mail: Sinta-se a vontade para entrar em contato.
 <br>
 <div> 
