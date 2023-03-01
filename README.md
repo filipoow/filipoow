@@ -3,7 +3,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipoow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipoow&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<p>sobre_mim = {<br><br>
+<br>
+<p>sobre_mim = {<br>
   <br>
             '<b>tecnologias'</b>: ['Python', 'Java', 'SQL', 'Power BI', 'Estatistica', 'Machine Learning'],<br>
             '<b>estudando</b>': ['Aplicacoes de AI', 'Docker', 'Airflow', 'Data Science'],<br>
@@ -21,11 +22,8 @@ Linguagens em uso no momento:
   <img align="center" alt="filipoow-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 </div>
-  
-
  
-<div> 
- 
+:mailbox_with_mail: Sinta-se a vontade para entrar em contato.
 <div> 
   <a href="https://www.instagram.com/filippemartin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:emaildofilipe.m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
