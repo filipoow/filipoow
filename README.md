@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipoow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipoow&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<p>sobre_mim = {<br>
+<p>sobre_mim = {<br><br>
   <br>
             '<b>tecnologias'</b>: ['Python', 'Java', 'SQL', 'Power BI', 'Estatistica', 'Machine Learning'],<br>
             '<b>estudando</b>': ['Aplicacoes de AI', 'Docker', 'Airflow', 'Data Science'],<br>
