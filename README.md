@@ -9,8 +9,8 @@
             '<b>tecnologias'</b>: ['Python', 'Java', 'SQL', 'Power BI', 'Estatistica', 'Machine Learning'],<br>
             '<b>estudando</b>': ['Aplicacoes de AI', 'Docker', 'Airflow', 'Data Science'],<br>
             '<b>frase_legal</b>': ['Eu acredito que com a tecnologia nós podemos mudar o mundo'],<br>
-            '<b>linkedin</b>':  'https://bit.ly/Jhonatans',<br>
-            '<b>email'</b>: 'jhonatans.ti@icloud.com'<br>
+            '<b>linkedin</b>':  'https://www.linkedin.com/in/filipoow/',<br>
+            '<b>email'</b>: 'emaildofilipe.m@gmail.com'<br>
   <br>
 }</p>
   
@@ -22,8 +22,9 @@ Linguagens em uso no momento:
   <img align="center" alt="filipoow-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 </div>
- 
+
 :mailbox_with_mail: Sinta-se a vontade para entrar em contato.
+<br>
 <div> 
   <a href="https://www.instagram.com/filippemartin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:emaildofilipe.m@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
