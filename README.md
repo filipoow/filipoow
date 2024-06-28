@@ -6,7 +6,7 @@
 <br>
 <p>sobre_mim = {<br>
   <br>
-            '<b>tecnologias'</b>: ['Python', 'Javascript', 'SQL', 'Power BI'],<br>
+            '<b>tecnologias'</b>: ['Python','R', 'Javascript', 'SQL', 'Power BI','Tableau'],<br>
             '<b>estudando</b>': ['Data Science'],<br>
             '<b>frase_de_efeito</b>': ['Torne-se aquilo que você é'],<br>
             '<b>linkedin</b>':  'https://www.linkedin.com/in/filipoow/',<br>
